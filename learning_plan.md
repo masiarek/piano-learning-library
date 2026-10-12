@@ -26,13 +26,3 @@ At 30 minutes a day, Book 1 takes roughly **6–12 months** and Book 2 another *
 | Book 1 takes about 6–12 months at 30 min/day | Medium; it varies a lot by person |
 | The order of skills in the phases matches Faber's course | Medium; written from memory, check against the book's contents |
 | Book 2 covers scales, minor keys and sixteenth notes | Medium; from memory |
-
-## Po polsku, w skrócie
-
-Plan w ośmiu fazach: od posadzenia przy klawiaturze i rytmu, przez czytanie nut na pięciolinii, interwały i pozycje pięciopalcowe, akordy, ósemki i pedał, aż do gam i utworów średnio zaawansowanych w drugim tomie. Każda faza kończy się sprawdzianem: przechodzić dalej dopiero, gdy się go zda, a nie wtedy, gdy minie zaplanowany czas.
-
-## Auf Deutsch: Stichwörter
-
-Jede Phase endet mit einer Prüfung, und erst wenn sie gelingt, geht es zur nächsten.
-
-Notenschlüssel, Violinschlüssel, Bassschlüssel, Intervall, Fünftonlage, Dreiklang, Dominantseptakkord, Achtelnote, Haltepedal, Tonleiter, Arpeggio, Daumenuntersatz

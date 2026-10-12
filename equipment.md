@@ -8,13 +8,3 @@
 | Adjustable bench or chair | before day 1 | Forearms level with the keys |
 | Metronome (a phone app is fine) | from phase 2 | |
 | Headphones | optional | For practising at any hour |
-
-## Po polsku, w skrócie
-
-Najważniejszy jest instrument: 88 klawiszy z ważoną klawiaturą i pedał. Drugi tom kupić dopiero pod koniec pierwszego, najlepiej na spirali.
-
-## Auf Deutsch: Stichwörter
-
-Eine gewichtete Tastatur mit 88 Tasten ist wichtiger als jedes Lehrbuch.
-
-Digitalpiano, gewichtete Tastatur, Hammermechanik, Haltepedal, Klavierbank, Metronom, Kopfhörer
