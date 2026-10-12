@@ -1,4 +1,4 @@
-# Piano learning library (private)
+# Piano learning library
 
 Learning piano from zero, 30 minutes a day, with Faber's *Adult Piano Adventures, All-in-One Piano Course* (Book 1, then Book 2).
 

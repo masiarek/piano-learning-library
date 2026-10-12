@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Instructions for Claude Code sessions working in this private repository.
+Instructions for Claude Code sessions working in this repository. It is public: nothing private goes here.
 
 - After every commit, push the branch at once; work on a branch is merged to `main` in the same session (the owner does not want to click anything).
 - Every page ends with `## Po polsku, w skrócie` (a short explanation in Polish, not a translation) and `## Auf Deutsch: Stichwörter` (one German sentence, one line of German keywords).
